@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /page6033276.html
+Disallow: /error
+Disallow: /page8946900.html
+Disallow: /page8946969.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: https://prisra.com/sitemap.xml
+Sitemap: https://prisra.com/sitemap-store.xml
+Host: https://prisra.com
